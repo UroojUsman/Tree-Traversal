@@ -1,0 +1,45 @@
+
+body{
+    font-size: 22px !important;
+    font-weight: 400 !important;
+    font-family: 'Poppins', sans-serif !important;
+   
+}
+h1{
+    text-align: center !important;
+    padding: 30px !important;
+    font-size: 55px !important;
+    font-weight: 600 !important;
+}
+.container-fluid{
+    background: linear-gradient( rgba(255, 255, 255, 0.658), rgba(252, 252, 252, 0.774)),url("./images/tree.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+}
+.content{
+ 
+    padding: 20px !important;
+   
+}
+.types{
+
+    margin-top: 10px;
+}
+
+.btn
+{
+    margin:10px;
+}
+.inorder{
+    margin-left: 0 !important;
+    background-color: white;
+    height: 10% !important;
+    width: 40% !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+}
